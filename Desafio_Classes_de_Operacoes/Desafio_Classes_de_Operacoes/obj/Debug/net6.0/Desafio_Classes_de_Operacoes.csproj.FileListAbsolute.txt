@@ -1,0 +1,15 @@
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\bin\Debug\net6.0\Desafio_Classes_de_Operacoes.exe
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\bin\Debug\net6.0\Desafio_Classes_de_Operacoes.deps.json
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\bin\Debug\net6.0\Desafio_Classes_de_Operacoes.runtimeconfig.json
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\bin\Debug\net6.0\Desafio_Classes_de_Operacoes.dll
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\bin\Debug\net6.0\Desafio_Classes_de_Operacoes.pdb
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.csproj.AssemblyReference.cache
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.AssemblyInfoInputs.cache
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.AssemblyInfo.cs
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.csproj.CoreCompileInputs.cache
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.dll
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\refint\Desafio_Classes_de_Operacoes.dll
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.pdb
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\Desafio_Classes_de_Operacoes.genruntimeconfig.cache
+C:\Curso\Desafio_Classes_de_Operacoes\Desafio_Classes_de_Operacoes\obj\Debug\net6.0\ref\Desafio_Classes_de_Operacoes.dll

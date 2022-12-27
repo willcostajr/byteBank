@@ -1,0 +1,15 @@
+C:\Curso\FastFood\FastFood\bin\Debug\net6.0\FastFood.exe
+C:\Curso\FastFood\FastFood\bin\Debug\net6.0\FastFood.deps.json
+C:\Curso\FastFood\FastFood\bin\Debug\net6.0\FastFood.runtimeconfig.json
+C:\Curso\FastFood\FastFood\bin\Debug\net6.0\FastFood.dll
+C:\Curso\FastFood\FastFood\bin\Debug\net6.0\FastFood.pdb
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.csproj.AssemblyReference.cache
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfoInputs.cache
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfo.cs
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.dll
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\refint\FastFood.dll
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.pdb
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\FastFood.genruntimeconfig.cache
+C:\Curso\FastFood\FastFood\obj\Debug\net6.0\ref\FastFood.dll

@@ -1,0 +1,15 @@
+C:\Curso\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Curso\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Curso\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Curso\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Curso\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Curso\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll

@@ -1,0 +1,15 @@
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.csproj.AssemblyReference.cache
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.AssemblyInfoInputs.cache
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.AssemblyInfo.cs
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.csproj.CoreCompileInputs.cache
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\bin\Debug\net6.0\DesafioCriandoAPrimeiraClasse.exe
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\bin\Debug\net6.0\DesafioCriandoAPrimeiraClasse.deps.json
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\bin\Debug\net6.0\DesafioCriandoAPrimeiraClasse.runtimeconfig.json
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\bin\Debug\net6.0\DesafioCriandoAPrimeiraClasse.dll
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\bin\Debug\net6.0\DesafioCriandoAPrimeiraClasse.pdb
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.dll
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\refint\DesafioCriandoAPrimeiraClasse.dll
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.pdb
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\DesafioCriandoAPrimeiraClasse.genruntimeconfig.cache
+C:\Curso\DesafioCriandoAPrimeiraClasse\DesafioCriandoAPrimeiraClasse\obj\Debug\net6.0\ref\DesafioCriandoAPrimeiraClasse.dll
